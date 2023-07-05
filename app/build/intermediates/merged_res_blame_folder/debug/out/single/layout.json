@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.alessandroorozco.prueba.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.alessandroorozco.prueba.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.alessandroorozco.prueba.app-mergeDebugResources-30:/layout/activity_mapa.xml",
+        "source": "com.alessandroorozco.prueba.app-main-33:/layout/activity_mapa.xml"
+    },
+    {
+        "merged": "com.alessandroorozco.prueba.app-mergeDebugResources-30:/layout/activity_camara.xml",
+        "source": "com.alessandroorozco.prueba.app-main-33:/layout/activity_camara.xml"
+    },
+    {
+        "merged": "com.alessandroorozco.prueba.app-mergeDebugResources-30:/layout/activity_login.xml",
+        "source": "com.alessandroorozco.prueba.app-main-33:/layout/activity_login.xml"
+    }
+]
